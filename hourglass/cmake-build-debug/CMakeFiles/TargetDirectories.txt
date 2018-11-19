@@ -1,0 +1,3 @@
+D:/code/clang/exercise/hourglass/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/clang/exercise/hourglass/cmake-build-debug/CMakeFiles/hourglass.dir
+D:/code/clang/exercise/hourglass/cmake-build-debug/CMakeFiles/edit_cache.dir

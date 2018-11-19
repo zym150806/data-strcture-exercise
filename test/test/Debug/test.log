@@ -1,0 +1,11 @@
+﻿  test.cpp
+d:\code\clang\exercise\test\test\test.cpp(7): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(10): error C3861: “scanf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(17): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(33): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(36): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(38): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(49): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(52): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(54): error C3861: “printf”: 找不到标识符
+d:\code\clang\exercise\test\test\test.cpp(59): error C3861: “printf”: 找不到标识符
